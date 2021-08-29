@@ -1,7 +1,7 @@
 # Opinions are Made to be Changed: Adoptive Stance Classification
 
-1. Code to be released.
-1.1 Data Collection
+Code to be released before 1-Nov-2021
+1.1 Data Collection - Done
 1.2 Embedding
 1.3 Clearning
 1.4 Prediction
