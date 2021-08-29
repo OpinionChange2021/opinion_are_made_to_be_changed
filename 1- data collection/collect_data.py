@@ -13,7 +13,7 @@ username-from-file: a file with a list of usernames,
          maxtweets: the maximum number of tweets to retrieve
               lang: the language of tweets
             output: a filename to export the results (default is "output_got.csv")
-
+original code written by authors and corrected to fit with the work
 Examples:
 
 # Example 1 - Get tweets by query search:
