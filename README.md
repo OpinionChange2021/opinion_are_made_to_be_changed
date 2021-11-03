@@ -1,5 +1,5 @@
 # Opinions are Made to be Changed: Adoptive Stance Classification
-https://dl.acm.org/doi/10.1145/3472720.3483620
+
 
 
 All to be released by 1st of January 2022
