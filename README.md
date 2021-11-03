@@ -1,8 +1,8 @@
 # Opinions are Made to be Changed: Adoptive Stance Classification
 
-Code to be released by 1st of January 2022
+All to be released by 1st of January 2022
 
-1 Longitudinal data collection - Done
+1 Longitudinal data collection
 
 2 Embeddings
 
