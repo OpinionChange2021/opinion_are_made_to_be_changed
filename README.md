@@ -10,6 +10,9 @@
 
 5 Model Aggregation
 
+![image](https://user-images.githubusercontent.com/83759421/167584061-ddf70346-53aa-4a89-b2a9-7e2d54fa07d3.png)
+
+
 6 Evaluation Methodology
 
 ...
