@@ -1,6 +1,17 @@
 # Opinions are Made to be Changed: Adoptive Stance Classification
 
-1 Longitudinal data collection
+1 Motivation
+
+- Current research is largely limited to datasets covering short periods of time.
+
+- Stance detection models need to capture linguistic and societal evolution.
+
+-    Variation of vocabulary over time is very common on social media platforms and NLP though gain little attention
+![image](https://user-images.githubusercontent.com/83759421/167584529-72c34f41-f77f-4177-9a2d-bf335088fc00.png)
+
+**Our findings indicate that a regular stance classifier can drop up to 18% in relative performance in only five years.
+![image](https://user-images.githubusercontent.com/83759421/167584632-1b7117dc-1a47-48a1-87ba-8e24a7b0064c.png)**
+
 
 2 Our models
 
