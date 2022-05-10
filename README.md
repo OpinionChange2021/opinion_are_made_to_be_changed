@@ -57,8 +57,8 @@ Check out survery paper: Alkhalifa, Rabab, and Arkaitz Zubiaga. "Capturing stanc
 
 Check out preprint: https://github.com/OpinionChange2021/Building-for-Tomorrow
 
-...
-Cite this paper using:
+
+**Cite this paper using:**
 
 @inproceedings{10.1145/3472720.3483620,
 author = {Alkhalifa, Rabab and Kochkina, Elena and Zubiaga, Arkaitz},
