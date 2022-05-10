@@ -8,7 +8,7 @@
 
 - Variation of vocabulary over time is very common on social media platforms and NLP though gain little attention
 
-**Our findings indicate that a regular stance classifier can drop up to 18% in relative performance in only five years.
+**Our findings indicate that a regular stance classifier can drop up to 18% in relative performance in only five years.**
 
 **2 Our models**
 
