@@ -33,8 +33,32 @@ We used Scratch Temporal Embeddings with CNN model to evaluate its temporal drop
 
 macro f-score and relative performance drop
 
-...
+**7 Results and findings**
 
+We propose an effective methodology to monitor performance drop overtime.
+
+We investigate temporal adaptation of word embeddings as a method to mitigate this drop in performance, showing that incrementally aligning embedding data for all years (ITA) leads to the best performance. 
+
+We quantify temporal persistence of our classification models using different methods with Relative Performance Drop.
+
+We find that consideration of only source and target years in the alignment leads to the smallest performance drop with promising trends towards longer term persistence.
+
+**Takeaways and futuer work**
+
+Annotated Datasets: Consider expanding existing datasets to cover longer period of time to have more challenging yet realistic in-domain evaluation.
+
+Language Representations: More computational methods need to be developed to mitigate the impact of outdated language models over time. Thus, adapt vocabulary evolution over time to mitigate performance drop. 
+
+DL Classification Models: State-of-the-art models need to be evaluated based on their adaptability on detecting long term temporal signals and performance persistence overtime.
+
+For more:
+
+Check out survery paper: Alkhalifa, Rabab, and Arkaitz Zubiaga. "Capturing stance dynamics in social media: open challenges and research directions." International Journal of Digital Humanities (2022): 1-21.
+
+Check out preprint: https://github.com/OpinionChange2021/Building-for-Tomorrow
+
+...
+Cite this paper using:
 
 @inproceedings{10.1145/3472720.3483620,
 author = {Alkhalifa, Rabab and Kochkina, Elena and Zubiaga, Arkaitz},
