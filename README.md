@@ -32,6 +32,9 @@ We used Scratch Temporal Embeddings with CNN model to evaluate its temporal drop
 
 6 Evaluation Methodology
 
+macro f-score
+relative performance drop
+
 ...
 
 
