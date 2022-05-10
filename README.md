@@ -43,7 +43,7 @@ We quantify temporal persistence of our classification models using different me
 
 We find that consideration of only source and target years in the alignment leads to the smallest performance drop with promising trends towards longer term persistence.
 
-**Takeaways and futuer work**
+**8 Takeaways and futuer work**
 
 Annotated Datasets: Consider expanding existing datasets to cover longer period of time to have more challenging yet realistic in-domain evaluation.
 
