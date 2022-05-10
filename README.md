@@ -6,12 +6,9 @@
 
 - Stance detection models need to capture linguistic and societal evolution.
 
--    Variation of vocabulary over time is very common on social media platforms and NLP though gain little attention
-![image](https://user-images.githubusercontent.com/83759421/167584529-72c34f41-f77f-4177-9a2d-bf335088fc00.png)
+- Variation of vocabulary over time is very common on social media platforms and NLP though gain little attention
 
 **Our findings indicate that a regular stance classifier can drop up to 18% in relative performance in only five years.
-![image](https://user-images.githubusercontent.com/83759421/167584632-1b7117dc-1a47-48a1-87ba-8e24a7b0064c.png)**
-
 
 2 Our models
 
@@ -24,8 +21,9 @@
 For alignment tool: Di Carlo, V., Bianchi, F., & Palmonari, M. (2019). Training Temporal Word Embeddings with a Compass. Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 6326-6334. https://doi.org/10.1609/aaai.v33i01.33016326
 ![image](https://user-images.githubusercontent.com/83759421/167584310-7d4f692f-e765-482a-a0ea-650c2d920495.png)
 
-
 4 Prediction
+
+We used Scratch Temporal Embeddings with CNN model to evaluate its temporal drop. 
 
 5 Model Aggregation
 
