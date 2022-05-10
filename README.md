@@ -2,9 +2,17 @@
 
 1 Longitudinal data collection
 
-2 Embeddings
+2 Our models
 
-3 Clearning
+![image](https://user-images.githubusercontent.com/83759421/167584193-628769f6-7038-40f5-bc57-7a0783255364.png)
+
+3 Methods
+
+![image](https://user-images.githubusercontent.com/83759421/167584253-15f53a53-f390-4347-bccc-ca750114edc5.png)
+
+For alignment tool: Di Carlo, V., Bianchi, F., & Palmonari, M. (2019). Training Temporal Word Embeddings with a Compass. Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 6326-6334. https://doi.org/10.1609/aaai.v33i01.33016326
+![image](https://user-images.githubusercontent.com/83759421/167584310-7d4f692f-e765-482a-a0ea-650c2d920495.png)
+
 
 4 Prediction
 
