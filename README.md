@@ -1,6 +1,6 @@
 # Opinions are Made to be Changed: Adoptive Stance Classification
 
-1 Motivation
+**1 Motivation**
 
 - Current research is largely limited to datasets covering short periods of time.
 
@@ -10,30 +10,29 @@
 
 **Our findings indicate that a regular stance classifier can drop up to 18% in relative performance in only five years.
 
-2 Our models
+**2 Our models**
 
 ![image](https://user-images.githubusercontent.com/83759421/167584193-628769f6-7038-40f5-bc57-7a0783255364.png)
 
-3 Methods
+**3 Methods**
 
 ![image](https://user-images.githubusercontent.com/83759421/167584253-15f53a53-f390-4347-bccc-ca750114edc5.png)
 
 For alignment tool: Di Carlo, V., Bianchi, F., & Palmonari, M. (2019). Training Temporal Word Embeddings with a Compass. Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 6326-6334. https://doi.org/10.1609/aaai.v33i01.33016326
 ![image](https://user-images.githubusercontent.com/83759421/167584310-7d4f692f-e765-482a-a0ea-650c2d920495.png)
 
-4 Prediction
+**4 Prediction**
 
 We used Scratch Temporal Embeddings with CNN model to evaluate its temporal drop. 
 
-5 Model Aggregation
+**5 Model Aggregation**
 
 ![image](https://user-images.githubusercontent.com/83759421/167584061-ddf70346-53aa-4a89-b2a9-7e2d54fa07d3.png)
 
 
-6 Evaluation Methodology
+**6 Evaluation Methodology**
 
-macro f-score
-relative performance drop
+macro f-score and relative performance drop
 
 ...
 
